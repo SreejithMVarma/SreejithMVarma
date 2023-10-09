@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreejith M Varma</h1>
-![Tech Talks by Sreejith](https://github.com/SreejithMVarma/SreejithMVarma/raw/main/githubBanner.jpg)
+
+![Tech Talk by Sreejith M Varma](https://github.com/SreejithMVarma/SreejithMVarma/assets/105853895/0f137eaf-1fdb-49cb-9ed5-07d9908c9cc2)
+
 
 <h3 align="center">A passionate Freelance web developer and public speaker from India</h3>
 
