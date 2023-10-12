@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **info@sreejithmvarma.in**
 
-- 🎙️I'm [Engaging public speaker, experienced in conveying ideas effectively and confidently.](Engaging public speaker, experienced in conveying ideas effectively and confidently.)
+- 🎙️I'm Engaging public speaker, experienced in conveying ideas effectively and confidently.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
