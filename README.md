@@ -12,7 +12,6 @@ I don't have a fixed stack or a favourite framework. I try whatever the project 
 
 Right now I'm learning in public - making videos, writing, and building things openly as I go. Not because I have it all figured out, but because I think that's a more honest way to grow.
 
----
 
 ## Currently
 
@@ -21,7 +20,6 @@ Right now I'm learning in public - making videos, writing, and building things o
 - Turning whatever is new and nascent into real applications and solutions
 - Connecting the dots for the long term - but something new gets built every month
 
----
 
 ## Connect
 
@@ -33,6 +31,5 @@ Right now I'm learning in public - making videos, writing, and building things o
 
 </div>
 
----
 
 *If you read something useful here or on my channel — that's enough for me.*
